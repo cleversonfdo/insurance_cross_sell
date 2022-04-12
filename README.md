@@ -17,7 +17,7 @@ Last year the marketing team consulted 380000 clients about their interest in ve
 
 By now, the company has acumulated about 127000 new clients and the business team wants to offer the vehicle insurance to this new clients. The problem is that the campaign will be made in the shortest period possible and the capacity of calls of the marketing team is limited to 20000 call during the period of the campaing.
 
-This data science project will provide a classified list with the clients that are more prone to accept the offer of vehicle insurance. So the number of calls will be made more eficiently than a random call selection and the revenue of the campaing will be more optimized.
+This data science project will provide a classified list with the clients that are more prone to accept the offer of vehicle insurance. So the number of calls will be made more eficiently than a random call selection and the revenue of the campaign will be more optimized.
 
 # 2. Business Assumptions.
 
